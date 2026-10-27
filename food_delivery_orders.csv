@@ -1,0 +1,201 @@
+Order_ID,Order_Date,Customer_ID,Restaurant,Cuisine,Area,Order_Amount_INR,Delivery_Fee_INR,Payment_Method,Distance_KM,Delivery_Time_Min,Customer_Rating,Order_Status
+FD0001,2026-01-29,C055,Noodle House,Chinese,Anna Nagar,454.89,0,UPI,3.7,28,5,Delivered
+FD0002,2026-02-25,C070,Spice Hub,Indian,Adyar,321.96,15,UPI,7.6,40,5,Delivered
+FD0003,2026-05-31,C044,Burger Bay,Fast Food,Anna Nagar,304.48,20,UPI,9.3,46,4,Delivered
+FD0004,2026-01-25,C069,Burger Bay,Fast Food,Anna Nagar,304.48,20,Card,7.6,42,5,Delivered
+FD0005,2026-05-22,C030,Spice Hub,Indian,T. Nagar,757.92,20,UPI,7.8,42,5,Delivered
+FD0006,2026-03-01,C048,Sweet Treats,Dessert,T. Nagar,521.19,0,UPI,4.1,24,5,Delivered
+FD0007,2026-03-10,C049,Noodle House,Chinese,T. Nagar,264.28,35,Cash,8.1,38,5,Delivered
+FD0008,2026-05-23,C005,Noodle House,Chinese,T. Nagar,465.7,15,Card,4.6,28,5,Delivered
+FD0009,2026-01-17,C059,Pizza Point,Italian,Velachery,397.88,15,Card,10.6,45,4,Delivered
+FD0010,2026-03-05,C075,Green Bowl,Healthy,Adyar,92.0,35,Card,6.9,42,5,Delivered
+FD0011,2026-02-05,C055,Green Bowl,Healthy,Porur,185.31,30,UPI,2.0,23,5,Delivered
+FD0012,2026-04-08,C002,Burger Bay,Fast Food,Tambaram,413.54,30,Cash,6.8,36,5,Delivered
+FD0013,2026-06-24,C034,Spice Hub,Indian,Porur,721.2,30,UPI,9.5,42,3,Delivered
+FD0014,2026-01-28,C048,Dosa Corner,South Indian,Velachery,305.98,35,Cash,10.3,49,5,Delivered
+FD0015,2026-05-16,C040,Sweet Treats,Dessert,Velachery,252.27,0,UPI,4.6,38,5,Delivered
+FD0016,2026-05-26,C069,Green Bowl,Healthy,Velachery,370.5,0,UPI,9.1,44,5,Cancelled
+FD0017,2026-05-02,C026,Noodle House,Chinese,Tambaram,243.49,30,Card,3.9,30,4,Delivered
+FD0018,2026-06-21,C029,Burger Bay,Fast Food,Anna Nagar,294.3,35,Card,5.8,30,5,Delivered
+FD0019,2026-05-31,C005,Spice Hub,Indian,T. Nagar,345.7,30,UPI,7.5,44,2,Delivered
+FD0020,2026-03-02,C074,Dosa Corner,South Indian,Porur,179.6,20,Card,6.3,35,5,Delivered
+FD0021,2026-05-02,C007,Green Bowl,Healthy,Tambaram,535.43,25,Cash,2.0,19,4,Delivered
+FD0022,2026-01-26,C025,Noodle House,Chinese,Velachery,159.84,0,Cash,9.0,39,5,Delivered
+FD0023,2026-02-05,C071,Burger Bay,Fast Food,Anna Nagar,147.66,25,UPI,4.1,28,4,Delivered
+FD0024,2026-05-19,C063,Noodle House,Chinese,Adyar,388.31,0,UPI,11.2,58,5,Delivered
+FD0025,2026-04-13,C055,Sweet Treats,Dessert,Tambaram,513.8,0,Cash,5.2,34,5,Delivered
+FD0026,2026-05-23,C008,Sweet Treats,Dessert,Porur,382.97,35,Cash,6.4,34,4,Delivered
+FD0027,2026-01-16,C066,Dosa Corner,South Indian,Anna Nagar,326.18,35,UPI,1.6,16,5,Delivered
+FD0028,2026-06-02,C073,Spice Hub,Indian,Velachery,292.66,0,Cash,10.5,45,4,Cancelled
+FD0029,2026-01-11,C041,Dosa Corner,South Indian,Velachery,265.72,30,Card,5.6,28,5,Delivered
+FD0030,2026-02-03,C010,Burger Bay,Fast Food,Anna Nagar,598.94,35,Card,4.3,26,4,Delivered
+FD0031,2026-05-25,C032,Dosa Corner,South Indian,T. Nagar,415.7,0,Card,6.9,34,4,Delivered
+FD0032,2026-04-23,C068,Green Bowl,Healthy,Anna Nagar,278.26,30,Cash,4.3,28,5,Delivered
+FD0033,2026-05-22,C020,Sweet Treats,Dessert,T. Nagar,231.92,20,Card,2.1,24,5,Delivered
+FD0034,2026-02-23,C063,Dosa Corner,South Indian,T. Nagar,482.31,35,UPI,3.2,23,5,Delivered
+FD0035,2026-06-12,C057,Spice Hub,Indian,Porur,591.63,25,Cash,1.5,19,5,Delivered
+FD0036,2026-05-24,C070,Burger Bay,Fast Food,Anna Nagar,564.28,0,Card,1.8,23,5,Delivered
+FD0037,2026-05-22,C046,Dosa Corner,South Indian,Velachery,208.53,15,Cash,2.4,20,5,Delivered
+FD0038,2026-06-20,C020,Green Bowl,Healthy,Velachery,291.24,0,UPI,9.6,52,5,Delivered
+FD0039,2026-02-15,C032,Sweet Treats,Dessert,T. Nagar,262.7,25,UPI,3.0,31,4,Delivered
+FD0040,2026-06-29,C059,Sweet Treats,Dessert,T. Nagar,313.24,0,Card,10.6,44,5,Delivered
+FD0041,2026-02-28,C045,Sweet Treats,Dessert,Tambaram,532.82,15,Cash,8.3,38,3,Delivered
+FD0042,2026-06-23,C023,Burger Bay,Fast Food,Porur,686.97,30,Card,11.3,51,3,Cancelled
+FD0043,2026-01-28,C074,Spice Hub,Indian,Velachery,424.03,30,Card,4.8,31,5,Delivered
+FD0044,2026-04-22,C026,Spice Hub,Indian,T. Nagar,236.7,0,Card,11.2,45,5,Delivered
+FD0045,2026-06-20,C053,Spice Hub,Indian,T. Nagar,341.37,20,Card,4.5,33,4,Delivered
+FD0046,2026-03-17,C023,Noodle House,Chinese,Porur,753.14,30,Cash,3.1,20,5,Delivered
+FD0047,2026-04-14,C057,Pizza Point,Italian,Adyar,365.65,30,Cash,4.3,30,5,Delivered
+FD0048,2026-05-11,C043,Green Bowl,Healthy,Anna Nagar,293.02,25,UPI,8.2,47,4,Delivered
+FD0049,2026-03-21,C059,Noodle House,Chinese,Adyar,307.08,15,Cash,2.6,34,5,Delivered
+FD0050,2026-02-19,C001,Dosa Corner,South Indian,Anna Nagar,423.02,35,Card,5.2,34,4,Delivered
+FD0051,2026-02-15,C060,Green Bowl,Healthy,Tambaram,212.83,35,Cash,6.1,25,3,Delivered
+FD0052,2026-06-02,C071,Dosa Corner,South Indian,Adyar,259.06,20,UPI,7.7,35,5,Delivered
+FD0053,2026-05-02,C031,Noodle House,Chinese,T. Nagar,560.0,25,Card,9.3,45,5,Delivered
+FD0054,2026-03-15,C020,Spice Hub,Indian,Velachery,416.73,15,Card,4.7,27,5,Delivered
+FD0055,2026-02-09,C054,Noodle House,Chinese,Adyar,367.68,35,Cash,1.7,16,4,Delivered
+FD0056,2026-01-06,C050,Noodle House,Chinese,Adyar,574.43,30,Cash,6.2,37,5,Delivered
+FD0057,2026-05-20,C052,Noodle House,Chinese,Tambaram,228.19,30,UPI,6.4,34,4,Delivered
+FD0058,2026-04-30,C004,Sweet Treats,Dessert,Anna Nagar,288.05,15,Cash,6.9,41,5,Delivered
+FD0059,2026-02-04,C049,Burger Bay,Fast Food,T. Nagar,409.57,25,Card,1.6,18,4,Delivered
+FD0060,2026-01-21,C029,Pizza Point,Italian,Tambaram,401.97,25,UPI,9.2,45,2,Cancelled
+FD0061,2026-06-16,C015,Sweet Treats,Dessert,Porur,138.24,0,UPI,11.4,50,3,Delivered
+FD0062,2026-06-29,C015,Burger Bay,Fast Food,Velachery,272.31,20,Card,2.8,25,5,Delivered
+FD0063,2026-05-29,C032,Spice Hub,Indian,Anna Nagar,317.71,0,Cash,7.3,41,5,Delivered
+FD0064,2026-03-19,C006,Sweet Treats,Dessert,T. Nagar,433.56,35,Cash,9.9,43,5,Delivered
+FD0065,2026-06-19,C047,Burger Bay,Fast Food,Tambaram,401.22,20,Card,6.6,31,5,Delivered
+FD0066,2026-02-09,C069,Noodle House,Chinese,Adyar,333.96,25,Card,9.1,49,5,Delivered
+FD0067,2026-06-01,C060,Burger Bay,Fast Food,Porur,91.56,20,Cash,10.4,48,5,Delivered
+FD0068,2026-04-08,C046,Noodle House,Chinese,T. Nagar,343.17,20,Card,6.4,33,4,Delivered
+FD0069,2026-06-02,C072,Pizza Point,Italian,Velachery,360.26,35,Cash,7.1,34,4,Delivered
+FD0070,2026-06-15,C052,Burger Bay,Fast Food,Tambaram,1087.2,35,UPI,5.9,33,1,Delivered
+FD0071,2026-06-19,C059,Pizza Point,Italian,T. Nagar,312.02,30,Card,6.2,30,5,Delivered
+FD0072,2026-03-01,C024,Pizza Point,Italian,Velachery,410.76,0,UPI,4.5,28,5,Cancelled
+FD0073,2026-05-04,C030,Noodle House,Chinese,T. Nagar,623.34,20,UPI,11.7,47,3,Delivered
+FD0074,2026-01-04,C038,Pizza Point,Italian,Tambaram,517.23,35,UPI,2.4,22,2,Delivered
+FD0075,2026-05-06,C062,Noodle House,Chinese,Anna Nagar,701.4,0,UPI,7.3,33,4,Delivered
+FD0076,2026-05-06,C073,Burger Bay,Fast Food,T. Nagar,139.68,0,UPI,7.9,40,2,Delivered
+FD0077,2026-01-31,C057,Green Bowl,Healthy,T. Nagar,188.19,30,Cash,7.7,39,5,Delivered
+FD0078,2026-03-20,C027,Burger Bay,Fast Food,Tambaram,248.83,30,UPI,1.7,18,5,Delivered
+FD0079,2026-06-19,C061,Pizza Point,Italian,T. Nagar,124.43,0,UPI,3.6,24,4,Delivered
+FD0080,2026-03-15,C034,Green Bowl,Healthy,Tambaram,361.93,35,Cash,8.7,41,4,Delivered
+FD0081,2026-02-20,C022,Noodle House,Chinese,T. Nagar,197.58,25,Cash,7.0,31,5,Delivered
+FD0082,2026-05-26,C035,Noodle House,Chinese,Porur,748.34,20,Cash,2.4,16,5,Delivered
+FD0083,2026-04-23,C074,Burger Bay,Fast Food,Porur,216.41,0,UPI,1.4,16,4,Delivered
+FD0084,2026-06-22,C057,Sweet Treats,Dessert,T. Nagar,289.02,20,UPI,1.4,21,5,Delivered
+FD0085,2026-04-22,C021,Dosa Corner,South Indian,T. Nagar,533.08,35,Card,11.7,47,4,Delivered
+FD0086,2026-05-07,C059,Noodle House,Chinese,Anna Nagar,158.68,20,Card,11.4,50,5,Delivered
+FD0087,2026-03-24,C007,Pizza Point,Italian,Velachery,118.91,0,Cash,10.5,47,5,Delivered
+FD0088,2026-06-09,C017,Pizza Point,Italian,T. Nagar,385.74,25,Card,5.9,33,2,Delivered
+FD0089,2026-05-05,C071,Noodle House,Chinese,Adyar,401.72,0,UPI,11.7,48,3,Delivered
+FD0090,2026-01-30,C038,Green Bowl,Healthy,Porur,524.88,25,Cash,8.1,38,3,Delivered
+FD0091,2026-04-17,C018,Pizza Point,Italian,Anna Nagar,460.82,25,Card,3.7,23,5,Delivered
+FD0092,2026-04-17,C075,Sweet Treats,Dessert,Tambaram,409.76,20,Card,3.9,26,1,Delivered
+FD0093,2026-02-08,C025,Sweet Treats,Dessert,Tambaram,231.46,25,UPI,6.3,31,4,Delivered
+FD0094,2026-04-09,C049,Dosa Corner,South Indian,Adyar,395.8,15,Cash,1.5,26,5,Delivered
+FD0095,2026-06-16,C057,Sweet Treats,Dessert,Anna Nagar,408.91,15,Cash,11.6,58,4,Delivered
+FD0096,2026-01-04,C061,Burger Bay,Fast Food,T. Nagar,226.38,35,Card,5.5,39,5,Delivered
+FD0097,2026-06-27,C063,Dosa Corner,South Indian,Porur,856.06,25,UPI,1.9,18,5,Cancelled
+FD0098,2026-01-18,C012,Dosa Corner,South Indian,Adyar,449.56,15,UPI,8.5,46,4,Delivered
+FD0099,2026-06-12,C038,Sweet Treats,Dessert,T. Nagar,190.26,35,Card,5.9,30,2,Delivered
+FD0100,2026-02-07,C023,Burger Bay,Fast Food,Anna Nagar,526.23,15,Cash,5.5,24,5,Delivered
+FD0101,2026-04-08,C033,Sweet Treats,Dessert,Tambaram,572.99,30,UPI,3.6,28,4,Delivered
+FD0102,2026-04-30,C039,Sweet Treats,Dessert,Tambaram,435.54,20,Card,7.0,35,3,Cancelled
+FD0103,2026-03-06,C074,Noodle House,Chinese,T. Nagar,302.47,25,Cash,3.2,22,4,Delivered
+FD0104,2026-01-06,C007,Pizza Point,Italian,Porur,220.64,35,Cash,4.0,31,5,Delivered
+FD0105,2026-03-15,C018,Burger Bay,Fast Food,Tambaram,333.46,15,UPI,9.8,45,4,Delivered
+FD0106,2026-06-15,C017,Noodle House,Chinese,Anna Nagar,419.47,0,Card,9.7,47,2,Delivered
+FD0107,2026-04-17,C022,Pizza Point,Italian,T. Nagar,350.88,15,Card,2.5,13,5,Delivered
+FD0108,2026-03-17,C029,Sweet Treats,Dessert,Tambaram,717.36,35,Cash,9.8,42,4,Delivered
+FD0109,2026-04-12,C034,Noodle House,Chinese,Porur,485.72,30,Card,2.0,19,3,Delivered
+FD0110,2026-06-13,C072,Sweet Treats,Dessert,T. Nagar,206.05,20,Cash,8.4,43,4,Delivered
+FD0111,2026-06-15,C005,Green Bowl,Healthy,T. Nagar,177.95,0,Card,10.1,49,4,Delivered
+FD0112,2026-01-25,C070,Spice Hub,Indian,Adyar,451.57,15,Cash,2.5,21,4,Delivered
+FD0113,2026-02-09,C048,Noodle House,Chinese,Velachery,306.4,25,Card,2.1,18,5,Delivered
+FD0114,2026-03-02,C046,Burger Bay,Fast Food,Anna Nagar,507.62,20,Card,11.8,51,4,Delivered
+FD0115,2026-02-18,C043,Pizza Point,Italian,Velachery,449.42,0,UPI,2.0,23,5,Delivered
+FD0116,2026-05-25,C030,Sweet Treats,Dessert,T. Nagar,334.27,15,UPI,10.1,51,5,Delivered
+FD0117,2026-06-02,C004,Sweet Treats,Dessert,Velachery,207.48,0,UPI,10.4,48,4,Delivered
+FD0118,2026-03-02,C054,Pizza Point,Italian,Porur,127.99,30,UPI,1.2,21,4,Delivered
+FD0119,2026-01-17,C006,Noodle House,Chinese,Tambaram,391.94,25,Cash,9.6,42,5,Cancelled
+FD0120,2026-03-19,C052,Dosa Corner,South Indian,Adyar,156.96,25,Cash,11.6,50,3,Delivered
+FD0121,2026-05-06,C075,Spice Hub,Indian,Porur,202.38,35,Cash,1.8,26,3,Delivered
+FD0122,2026-04-08,C015,Pizza Point,Italian,Tambaram,379.3,30,Cash,4.2,31,5,Delivered
+FD0123,2026-05-22,C013,Sweet Treats,Dessert,T. Nagar,359.85,35,Card,5.7,36,5,Delivered
+FD0124,2026-06-20,C012,Pizza Point,Italian,Anna Nagar,169.08,20,UPI,11.5,47,5,Delivered
+FD0125,2026-01-25,C016,Burger Bay,Fast Food,Adyar,606.26,35,Card,9.9,40,5,Delivered
+FD0126,2026-06-20,C074,Sweet Treats,Dessert,Porur,598.01,25,UPI,11.7,49,5,Delivered
+FD0127,2026-06-18,C029,Green Bowl,Healthy,Adyar,459.19,25,Cash,10.3,43,3,Delivered
+FD0128,2026-06-09,C035,Sweet Treats,Dessert,Anna Nagar,458.89,30,UPI,8.1,44,2,Delivered
+FD0129,2026-06-29,C004,Pizza Point,Italian,Anna Nagar,459.19,20,Cash,4.9,31,5,Delivered
+FD0130,2026-02-25,C042,Dosa Corner,South Indian,Porur,1777.68,25,Cash,6.0,36,3,Delivered
+FD0131,2026-01-14,C057,Spice Hub,Indian,Adyar,570.43,15,Card,9.3,45,4,Delivered
+FD0132,2026-05-12,C063,Green Bowl,Healthy,Porur,492.03,0,Cash,5.7,33,4,Delivered
+FD0133,2026-01-12,C033,Pizza Point,Italian,T. Nagar,217.9,15,Card,11.8,53,5,Delivered
+FD0134,2026-01-02,C065,Spice Hub,Indian,Porur,304.0,25,Cash,2.9,25,4,Delivered
+FD0135,2026-04-01,C074,Sweet Treats,Dessert,Adyar,1026.26,0,Cash,10.5,48,5,Delivered
+FD0136,2026-06-13,C059,Burger Bay,Fast Food,Tambaram,95.76,25,Card,2.3,23,2,Delivered
+FD0137,2026-04-22,C029,Spice Hub,Indian,T. Nagar,263.88,0,UPI,5.8,32,5,Delivered
+FD0138,2026-05-11,C045,Spice Hub,Indian,Tambaram,607.93,35,Cash,6.8,37,4,Delivered
+FD0139,2026-02-07,C023,Sweet Treats,Dessert,Tambaram,226.24,15,Card,2.6,25,5,Delivered
+FD0140,2026-05-25,C042,Burger Bay,Fast Food,Tambaram,499.02,30,Card,8.5,46,5,Delivered
+FD0141,2026-04-23,C040,Green Bowl,Healthy,Adyar,357.33,0,Card,5.9,32,2,Delivered
+FD0142,2026-01-15,C065,Spice Hub,Indian,Adyar,235.72,20,Card,1.8,24,5,Delivered
+FD0143,2026-05-22,C020,Dosa Corner,South Indian,Anna Nagar,90.0,35,Card,5.9,35,4,Delivered
+FD0144,2026-03-29,C057,Spice Hub,Indian,Adyar,386.12,35,Cash,6.6,30,3,Delivered
+FD0145,2026-06-06,C043,Dosa Corner,South Indian,Anna Nagar,215.09,15,Card,5.1,30,4,Delivered
+FD0146,2026-05-23,C020,Spice Hub,Indian,T. Nagar,326.35,35,UPI,4.1,32,5,Delivered
+FD0147,2026-06-19,C011,Dosa Corner,South Indian,T. Nagar,456.83,15,Cash,4.4,25,3,Delivered
+FD0148,2026-06-14,C068,Burger Bay,Fast Food,Anna Nagar,546.77,20,Cash,8.4,36,5,Delivered
+FD0149,2026-04-19,C025,Noodle House,Chinese,Velachery,263.39,30,UPI,1.2,16,4,Delivered
+FD0150,2026-01-20,C068,Green Bowl,Healthy,Anna Nagar,235.46,20,Cash,6.6,44,5,Delivered
+FD0151,2026-06-08,C022,Pizza Point,Italian,Tambaram,155.22,15,Card,5.1,35,5,Delivered
+FD0152,2026-04-16,C058,Spice Hub,Indian,Velachery,560.66,20,Cash,8.9,49,5,Delivered
+FD0153,2026-03-21,C049,Green Bowl,Healthy,Porur,950.75,25,Cash,5.0,41,4,Delivered
+FD0154,2026-02-11,C048,Burger Bay,Fast Food,Porur,592.04,15,UPI,2.5,19,4,Delivered
+FD0155,2026-05-13,C012,Noodle House,Chinese,Velachery,659.83,0,Card,1.9,24,5,Delivered
+FD0156,2026-01-07,C011,Pizza Point,Italian,T. Nagar,227.36,25,UPI,5.4,35,4,Delivered
+FD0157,2026-03-23,C018,Spice Hub,Indian,Tambaram,442.63,0,Card,8.1,40,4,Delivered
+FD0158,2026-06-07,C068,Burger Bay,Fast Food,Adyar,523.03,0,UPI,1.2,17,4,Delivered
+FD0159,2026-03-15,C064,Sweet Treats,Dessert,Porur,90.0,15,Cash,2.3,23,5,Delivered
+FD0160,2026-06-11,C046,Spice Hub,Indian,Velachery,183.83,30,Cash,3.7,32,3,Delivered
+FD0161,2026-02-17,C065,Burger Bay,Fast Food,Porur,775.54,35,UPI,1.9,23,5,Delivered
+FD0162,2026-05-01,C046,Burger Bay,Fast Food,Anna Nagar,136.69,0,Card,5.3,31,4,Delivered
+FD0163,2026-06-18,C023,Green Bowl,Healthy,Tambaram,713.48,35,Card,9.5,44,2,Delivered
+FD0164,2026-05-03,C059,Noodle House,Chinese,Anna Nagar,136.09,35,Card,9.9,42,3,Delivered
+FD0165,2026-01-12,C005,Green Bowl,Healthy,Tambaram,189.36,15,UPI,4.5,28,5,Delivered
+FD0166,2026-04-02,C052,Pizza Point,Italian,Tambaram,446.84,0,Card,4.7,33,3,Delivered
+FD0167,2026-03-28,C055,Burger Bay,Fast Food,Anna Nagar,362.18,15,Card,8.6,36,4,Delivered
+FD0168,2026-02-16,C040,Dosa Corner,South Indian,Adyar,278.22,30,Cash,4.5,34,3,Delivered
+FD0169,2026-04-20,C056,Noodle House,Chinese,T. Nagar,760.16,15,Cash,5.9,27,5,Delivered
+FD0170,2026-01-15,C021,Sweet Treats,Dessert,Anna Nagar,157.87,0,UPI,8.0,42,4,Delivered
+FD0171,2026-06-05,C073,Sweet Treats,Dessert,Anna Nagar,319.46,35,Cash,1.4,26,4,Delivered
+FD0172,2026-06-23,C068,Green Bowl,Healthy,T. Nagar,476.65,25,Card,5.1,34,5,Delivered
+FD0173,2026-06-16,C016,Pizza Point,Italian,T. Nagar,406.28,20,Card,11.6,53,5,Delivered
+FD0174,2026-04-25,C016,Noodle House,Chinese,Velachery,240.11,15,UPI,4.1,28,5,Delivered
+FD0175,2026-02-14,C009,Burger Bay,Fast Food,Porur,245.23,35,Cash,12.0,55,5,Delivered
+FD0176,2026-03-18,C047,Pizza Point,Italian,Porur,542.51,15,UPI,8.8,32,5,Delivered
+FD0177,2026-02-21,C071,Spice Hub,Indian,Velachery,555.77,15,Cash,9.7,50,4,Delivered
+FD0178,2026-01-17,C053,Spice Hub,Indian,Porur,412.02,20,UPI,12.0,52,5,Delivered
+FD0179,2026-03-23,C024,Green Bowl,Healthy,Velachery,209.95,35,Card,5.9,32,5,Delivered
+FD0180,2026-01-15,C029,Dosa Corner,South Indian,T. Nagar,249.78,0,Cash,2.7,20,3,Delivered
+FD0181,2026-01-21,C065,Pizza Point,Italian,Tambaram,344.26,20,UPI,8.0,38,4,Delivered
+FD0182,2026-05-29,C073,Dosa Corner,South Indian,Anna Nagar,371.81,15,UPI,8.2,39,5,Delivered
+FD0183,2026-01-12,C070,Spice Hub,Indian,T. Nagar,466.78,35,Cash,3.9,28,5,Delivered
+FD0184,2026-05-04,C021,Pizza Point,Italian,Adyar,310.23,15,Card,5.5,37,4,Delivered
+FD0185,2026-04-29,C052,Burger Bay,Fast Food,Velachery,536.17,15,Card,7.7,36,5,Delivered
+FD0186,2026-05-24,C019,Dosa Corner,South Indian,Anna Nagar,533.07,0,UPI,3.7,32,3,Delivered
+FD0187,2026-04-09,C041,Pizza Point,Italian,Velachery,671.46,30,UPI,3.7,28,4,Delivered
+FD0188,2026-05-12,C051,Burger Bay,Fast Food,Porur,352.46,25,Card,10.7,46,4,Delivered
+FD0189,2026-02-25,C037,Green Bowl,Healthy,Porur,415.72,30,UPI,1.5,19,5,Delivered
+FD0190,2026-01-28,C047,Sweet Treats,Dessert,Anna Nagar,323.47,25,Card,10.7,53,5,Delivered
+FD0191,2026-05-26,C016,Spice Hub,Indian,Velachery,211.46,30,UPI,5.0,30,4,Delivered
+FD0192,2026-04-06,C066,Burger Bay,Fast Food,Adyar,939.41,20,Cash,11.3,53,5,Delivered
+FD0193,2026-01-12,C018,Spice Hub,Indian,T. Nagar,627.76,0,Cash,8.8,44,3,Delivered
+FD0194,2026-02-11,C066,Pizza Point,Italian,Porur,527.41,25,Card,9.1,38,4,Delivered
+FD0195,2026-05-25,C004,Noodle House,Chinese,Porur,345.94,20,Card,10.0,41,5,Delivered
+FD0196,2026-06-17,C068,Pizza Point,Italian,Tambaram,200.56,30,Cash,3.5,30,2,Delivered
+FD0197,2026-04-08,C054,Dosa Corner,South Indian,Velachery,576.2,15,Card,3.7,21,4,Delivered
+FD0198,2026-02-22,C008,Noodle House,Chinese,Tambaram,320.33,25,UPI,9.5,41,5,Delivered
+FD0199,2026-02-23,C069,Dosa Corner,South Indian,T. Nagar,435.58,30,Cash,12.0,48,5,Delivered
+FD0200,2026-06-23,C025,Pizza Point,Italian,Velachery,249.23,35,Card,8.1,40,5,Delivered
